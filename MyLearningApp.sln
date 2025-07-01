@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLearningApp", "MyLearningApp.csproj", "{DEF032B7-5B51-B33F-98FF-77D491819D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF032B7-5B51-B33F-98FF-77D491819D04}.Debug|x86.ActiveCfg = Debug|x86
+		{DEF032B7-5B51-B33F-98FF-77D491819D04}.Debug|x86.Build.0 = Debug|x86
+		{DEF032B7-5B51-B33F-98FF-77D491819D04}.Release|x86.ActiveCfg = Release|x86
+		{DEF032B7-5B51-B33F-98FF-77D491819D04}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A83F45A-4F42-4045-A952-5FFEFE3B69C9}
+	EndGlobalSection
+EndGlobal
+
