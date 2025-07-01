@@ -1,4 +1,4 @@
-namespace MyLearningAppLibrary.Models
+namespace MyLearningApp.Models
 {
     public class Customer
     {

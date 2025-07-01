@@ -2,6 +2,7 @@
 using MyLearningApp.Models;
 using MyLearningApp.Services;
 using MyLearningApp.Utilities;
+using MyLearningAppLibrary.Models;
 
 class Program
 {

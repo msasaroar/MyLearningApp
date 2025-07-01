@@ -1,4 +1,4 @@
-namespace MyLearningAppLibrary.Models
+namespace MyLearningApp.Models
 {
     public enum OrderStatus
     {

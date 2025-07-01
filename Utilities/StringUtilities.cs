@@ -1,4 +1,4 @@
-namespace MyLearningAppLibrary.Utilities
+namespace MyLearningApp.Utilities
 {
     public static class StringUtilities
     {

@@ -1,4 +1,4 @@
-using MyLearningAppLibrary.Models;
+using MyLearningApp.Models;
 
 namespace MyLearningAppLibrary.Models
 {
